@@ -34,3 +34,19 @@ Formato ~~tachado~~
 
 ## Imagenes
 ![Logo github](http://pngimg.com/download/73352)
+
+## Code space
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
