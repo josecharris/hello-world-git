@@ -50,3 +50,8 @@ Formato ~~tachado~~
   }
 ]
 ```
+
+## Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Jose | Charris | 201511883
