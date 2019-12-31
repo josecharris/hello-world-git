@@ -20,3 +20,13 @@ Formato **strong o bold** de la primera forma
 Formato __string o bold__ de la segunda forma
 
 Formato ~~tachado~~
+
+# Listas
+## Ordenada
+1. Example 1
+2. Example 2
+
+## Desordenada
+- Example 1
+- Example 2
+
