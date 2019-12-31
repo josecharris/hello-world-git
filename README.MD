@@ -54,4 +54,18 @@ Formato ~~tachado~~
 ## Tablas
 | Nombre | Apellido | Documento |
 | ------ | -------- | --------- |
-| Jose | Charris | 201511883
+| Jose | Charris | 2015*****
+
+## Citas
+Esto es una cita que utilizaremos
+> Esto es una cita
+
+## Lineas divisoras
+Lorem ipsum
+
+---
+
+***
+
+___ 
+
